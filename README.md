@@ -33,6 +33,31 @@
   + [paper](https://arxiv.org/abs/1902.07766?context=cs)
 * Region Deformer Networks for Unsupervised Depth Estimation from Unconstrained Monocular Videos
   + [paper](https://arxiv.org/abs/1902.09907)
+* Single Image Deblurring and Camera Motion Estimation with Depth Map
+  + [paper](https://arxiv.org/abs/1903.00231)
+* SweepNet: Wide-baseline Omnidirectional Depth Estimation
+  + [paper](https://arxiv.org/abs/1902.10904)
+* Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference(重点)
+  + [paper](https://arxiv.org/abs/1902.10556)
+* Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction
+  + [paper](https://arxiv.org/abs/1902.06729)
+* Depth-Map Generation using Pixel Matching in Stereoscopic Pair of Images
+  + [paper](https://arxiv.org/abs/1902.03471)
+* Unstructured Multi-View Depth Estimation Using Mask-Based Multiplane Representation
+  + [paper](https://arxiv.org/abs/1902.02166)
+* DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion
+  + [paper](https://arxiv.org/abs/1902.00761)
+* Attention-based Context Aggregation Network for Monocular Depth Estimation
+  + [paper](https://arxiv.org/abs/1901.10137)
+
+
+  
+
+
+## review
+* Monocular Depth Estimation: A Survey
+ + [paper](https://arxiv.org/abs/1901.09402)
+
 ## Network Architecture
 * ResNet: Deep Residual Learning for Image Recognition
   + [paper](https://arxiv.org/abs/1512.03385)
