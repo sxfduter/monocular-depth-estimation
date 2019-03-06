@@ -23,6 +23,16 @@
  
 ## 2018
 ## 2019
+* Self-supervised Learning for Single View Depth and Surface Normal Estimation
+  + [paper](https://arxiv.org/abs/1903.00112)
+* DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+  + [paper](https://arxiv.org/abs/1812.00488v1)
+* A Motion Free Approach to Dense Depth Estimation in Complex Dynamic Scene
+  + [paper](https://arxiv.org/abs/1902.03791)
+* Self-supervised Learning for Dense Depth Estimation in Monocular Endoscopy
+  + [paper](https://arxiv.org/abs/1902.07766?context=cs)
+* Region Deformer Networks for Unsupervised Depth Estimation from Unconstrained Monocular Videos
+  + [paper](https://arxiv.org/abs/1902.09907)
 ## Network Architecture
 * ResNet: Deep Residual Learning for Image Recognition
   + [paper](https://arxiv.org/abs/1512.03385)
