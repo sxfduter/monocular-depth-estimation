@@ -56,7 +56,7 @@
 
 ## review
 * Monocular Depth Estimation: A Survey
- + [paper](https://arxiv.org/abs/1901.09402)
+  + [paper](https://arxiv.org/abs/1901.09402)
 
 ## Network Architecture
 * ResNet: Deep Residual Learning for Image Recognition
