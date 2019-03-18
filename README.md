@@ -23,6 +23,8 @@
  
 ## 2018
 ## 2019
+* Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation(CVPR2019)
+  + [paper](https://arxiv.org/abs/1903.04202)
 * Self-supervised Learning for Single View Depth and Surface Normal Estimation
   + [paper](https://arxiv.org/abs/1903.00112)
 * DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
