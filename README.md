@@ -22,7 +22,24 @@
   + [paper](https://arxiv.org/abs/1604.03901)
  
 ## 2018
+* Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
+  + [paper](https://arxiv.org/abs/1812.11922)
+* SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints
+  + [paper](https://arxiv.org/abs/1812.08370)
+* Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion
+  + [paper](https://arxiv.org/abs/1812.08156)
+* Fast and Accurate Depth Estimation from Sparse Light Fields
+  + [paper](https://arxiv.org/abs/1812.06856)
+  
+  
+  
+  
+
 ## 2019
+* DFineNet: Ego-Motion Estimation and Depth Refinement from Sparse, Noisy Depth Input with RGB Guidance
+  + [paper](https://arxiv.org/abs/1903.06397)
+* Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction
+  + [paper](https://arxiv.org/abs/1903.07309)
 * Anytime Stereo Image Depth Estimation on Mobile Devices(**)
   + [paper](https://arxiv.org/abs/1810.11408)
 * Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation(CVPR2019)
