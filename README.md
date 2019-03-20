@@ -23,6 +23,8 @@
  
 ## 2018
 ## 2019
+* Anytime Stereo Image Depth Estimation on Mobile Devices(**)
+  + [paper](https://arxiv.org/abs/1810.11408)
 * Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation(CVPR2019)
   + [paper](https://arxiv.org/abs/1903.04202)
 * Self-supervised Learning for Single View Depth and Surface Normal Estimation
