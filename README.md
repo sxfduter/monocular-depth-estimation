@@ -84,4 +84,19 @@
   + [paper](https://arxiv.org/abs/1512.03385)
 * VGG: Very Deep Convolutional Networks for Large-scale Image Recognition
   + [paper](https://arxiv.org/abs/1409.1556)
+* Squeeze-and-Excitation Networks
+  + [paper]( https://arxiv.org/abs/1709.01507v1)
+* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+  + [paper]( https://arxiv.org/abs/1707.01083)
+* ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+  + [paper](https://arxiv.org/abs/1807.11164)
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+  + [paper](https://arxiv.org/abs/1704.04861)
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks
+  + [paper](https://arxiv.org/abs/1801.04381)
+  
+  
  
+  
+ 
+
