@@ -20,6 +20,12 @@
   + [paper](https://arxiv.org/abs/1607.00730)
 * Single-Image Depth Perception in the Wild
   + [paper](https://arxiv.org/abs/1604.03901)
+* Unsupervised Learning of Depth and Ego-Motion from Video
+  + [paper](https://github.com/tinghuiz/SfMLearner)
+  + [code](https://github.com/tinghuiz/SfMLearner)
+  + [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)(已复现)
+  
+ 
  
 ## 2018
 * Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
