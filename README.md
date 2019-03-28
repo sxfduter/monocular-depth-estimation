@@ -48,6 +48,49 @@
   + [paper](https://arxiv.org/abs/1812.06856)
 * Geometry meets semantics for semi-supervised monocular depth estimation
   + [paper](https://arxiv.org/abs/1810.04093)
+* Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Videos
+  + [paper](https://arxiv.org/abs/1810.03654)
+* Learning Depth with Convolutional Spatial Propagation Network
+  + [paper](https://arxiv.org/abs/1810.02695)
+* SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation
+  + [paper](https://arxiv.org/abs/1810.01849)
+* CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction
+  + [paper](https://arxiv.org/abs/1810.01011)
+* Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data
+  + [paper](https://arxiv.org/abs/1809.08625)
+* GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks
+  + [paper](https://arxiv.org/abs/1809.05786)
+* Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
+  + [paper](https://arxiv.org/abs/1809.04766)
+* DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+  + [paper](https://arxiv.org/abs/1809.01649)
+* Sparse-to-Continuous: Enhancing Monocular Depth Estimation using Occupancy Maps
+  + [paper](https://arxiv.org/abs/1809.09061)
+* Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?
+  + [paper](https://arxiv.org/abs/1809.01567)
+* A Deeper Insight into the UnDEMoN: Unsupervised Deep Network for Depth and Ego-Motion Estimation
+  + [paper](https://arxiv.org/abs/1809.00969)
+* Detail Preserving Depth Estimation from a Single Image Using Attention Guided Networks
+  + [paper](https://arxiv.org/abs/1809.00646)
+  
+ 
+  
+  
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ## 2017
 * A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images
   + [paper](https://arxiv.org/abs/1607.00730)
