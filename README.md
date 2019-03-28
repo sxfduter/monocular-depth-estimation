@@ -72,8 +72,14 @@
   + [paper](https://arxiv.org/abs/1809.00969)
 * Detail Preserving Depth Estimation from a Single Image Using Attention Guided Networks
   + [paper](https://arxiv.org/abs/1809.00646)
+* Rethinking Monocular Depth Estimation with Adversarial Training
+  + [paper](https://arxiv.org/abs/1808.07528)
+* Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis
+  + [paper](https://arxiv.org/abs/1808.08688)
   
- 
+  
+  
+
   
   
   
