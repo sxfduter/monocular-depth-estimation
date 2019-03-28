@@ -1,47 +1,8 @@
 # monocular-depth-estimation
-## 2014
-* Deep Convolutional Neural Fields for Depth Estimation from a Single Image 
-  + [paper](https://arxiv.org/abs/1411.6387)
-* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
-  + [paper](https://arxiv.org/abs/1406.2283v1)
-  + [code for pytorch](https://github.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network)
-## 2015
-* Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture
-  + [paper](https://arxiv.org/abs/1411.4734)
-## 2016
-* Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks
-  + [paper](https://arxiv.org/abs/1604.07480v1)
-* Deeper Depth Prediction with Fully Convolutional Residual Networks
-   + [paper](https://arxiv.org/abs/1606.00373)
-* Deep3D Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks
-  + [paper](https://arxiv.org/abs/1604.03650v1)
-## 2017
-* A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images
-  + [paper](https://arxiv.org/abs/1607.00730)
-* Single-Image Depth Perception in the Wild
-  + [paper](https://arxiv.org/abs/1604.03901)
-* Unsupervised Learning of Depth and Ego-Motion from Video(已复现)
-  + [paper](https://github.com/tinghuiz/SfMLearner)
-  + [code](https://github.com/tinghuiz/SfMLearner)
-  + [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
-  
- 
- 
-## 2018
-* Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
-  + [paper](https://arxiv.org/abs/1812.11922)
-* SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints
-  + [paper](https://arxiv.org/abs/1812.08370)
-* Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion
-  + [paper](https://arxiv.org/abs/1812.08156)
-* Fast and Accurate Depth Estimation from Sparse Light Fields
-  + [paper](https://arxiv.org/abs/1812.06856)
-  
-  
-  
-  
 
 ## 2019
+* Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery
+  + [paper](https://arxiv.org/abs/1903.11532)
 * DFineNet: Ego-Motion Estimation and Depth Refinement from Sparse, Noisy Depth Input with RGB Guidance
   + [paper](https://arxiv.org/abs/1903.06397)
 * Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction
@@ -76,6 +37,43 @@
   + [paper](https://arxiv.org/abs/1902.00761)
 * Attention-based Context Aggregation Network for Monocular Depth Estimation
   + [paper](https://arxiv.org/abs/1901.10137)
+## 2018
+* Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
+  + [paper](https://arxiv.org/abs/1812.11922)
+* SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints
+  + [paper](https://arxiv.org/abs/1812.08370)
+* Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion
+  + [paper](https://arxiv.org/abs/1812.08156)
+* Fast and Accurate Depth Estimation from Sparse Light Fields
+  + [paper](https://arxiv.org/abs/1812.06856)
+* Geometry meets semantics for semi-supervised monocular depth estimation
+  + [paper](https://arxiv.org/abs/1810.04093)
+## 2017
+* A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images
+  + [paper](https://arxiv.org/abs/1607.00730)
+* Single-Image Depth Perception in the Wild
+  + [paper](https://arxiv.org/abs/1604.03901)
+* Unsupervised Learning of Depth and Ego-Motion from Video(已复现)
+  + [paper](https://github.com/tinghuiz/SfMLearner)
+  + [code](https://github.com/tinghuiz/SfMLearner)
+  + [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
+## 2016
+* Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks
+  + [paper](https://arxiv.org/abs/1604.07480v1)
+* Deeper Depth Prediction with Fully Convolutional Residual Networks
+   + [paper](https://arxiv.org/abs/1606.00373)
+* Deep3D Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks
+  + [paper](https://arxiv.org/abs/1604.03650v1)
+## 2015
+* Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture
+  + [paper](https://arxiv.org/abs/1411.4734)
+## 2014
+* Deep Convolutional Neural Fields for Depth Estimation from a Single Image 
+  + [paper](https://arxiv.org/abs/1411.6387)
+* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+  + [paper](https://arxiv.org/abs/1406.2283v1)
+  + [code for pytorch](https://github.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network)
+  
 
 
   
