@@ -87,6 +87,10 @@
 * LEGO: Learning Edge with Geometry all at Once by Watching Videos
   + [paper](https://arxiv.org/abs/1803.05648)
   + [code](https://github.com/zhenheny/LEGO)
+* Learning monocular visual odometry with dense 3D mapping from dense 3D flow
+  + [paper](https://arxiv.org/pdf/1803.02286.pdf)
+  
+  
   
   
   
