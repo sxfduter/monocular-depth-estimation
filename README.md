@@ -76,6 +76,12 @@
   + [paper](https://arxiv.org/abs/1808.07528)
 * Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis
   + [paper](https://arxiv.org/abs/1808.08688)
+* LEGO: Learning Edge with Geometry all at Once by Watching Videos
+  + [paper](https://arxiv.org/abs/1803.05648)
+  + [code](https://github.com/zhenheny/LEGO)
+  
+  
+  
   
   
   
