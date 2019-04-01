@@ -57,6 +57,13 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+
+
+
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/UnDepthflow.PNG "Depth-VO-Feat")
+* Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
+  + [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
+  + [code](https://github.com/Huangying-Zhan/Depth-VO-Feat)
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/UnDepthflow.PNG "UnDepthflow")
 * Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Videos
   + [paper](https://arxiv.org/pdf/1810.03654.pdf)
