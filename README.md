@@ -45,6 +45,7 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/abs/1902.00761)
 * Attention-based Context Aggregation Network for Monocular Depth Estimation
   + [paper](https://arxiv.org/abs/1901.10137)
+  ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Depth%20Prediction%20Without%20the%20Sensors.PNG "Depth Prediction Without the Sensors")
 * Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos(已复现)
   + [paper](https://arxiv.org/pdf/1811.06152.pdf)
   + [code](https://github.com/tensorflow/models/tree/master/research/struct2depth)
