@@ -55,6 +55,7 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/UnDepthflow.PNG "UnDepthflow")
 * Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Videos
   + [paper](https://arxiv.org/pdf/1810.03654.pdf)
   + [code](https://github.com/baidu-research/UnDepthflow)
