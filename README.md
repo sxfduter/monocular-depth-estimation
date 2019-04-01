@@ -1,13 +1,14 @@
 # monocular-depth-estimation
 
 ## 2019
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Competitive%20Collaboration.PNG "Competitive%20Collaboration")
 * Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera
 Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/pdf/1805.09806.pdf)
   + [code](https://github.com/anuragranj/cc)
+  
 * Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery
   + [paper](https://arxiv.org/abs/1903.11532)
 * DFineNet: Ego-Motion Estimation and Depth Refinement from Sparse, Noisy Depth Input with RGB Guidance
