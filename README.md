@@ -1,6 +1,7 @@
 # monocular-depth-estimation
 
 ## 2019
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/multitask%20refinenet.PNG "multitask%20refinenet")
 * Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
   + [paper](https://arxiv.org/pdf/1809.04766.pdf)
   + [code](https://github.com/drsleep/multi-task-refinenet)
