@@ -59,6 +59,10 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/pdf/1809.01649.pdf)
   + [code](https://github.com/vt-vl-lab/DF-Net)
   + [webpage](http://yuliang.vision/DF-Net/)
+  
+ 
+* Driving Scene Perception Network: Real-time Joint Detection, Depth Estimation and Semantic Segmentation
+  + [paper]( https://arxiv.org/pdf/1803.03778.pdf)
 * Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
   + [paper](https://arxiv.org/abs/1812.11922)
 * SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints
