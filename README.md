@@ -55,6 +55,10 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+* DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+  + [paper](https://arxiv.org/pdf/1809.01649.pdf)
+  + [code](https://github.com/vt-vl-lab/DF-Net)
+  + [webpage](http://yuliang.vision/DF-Net/)
 * Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
   + [paper](https://arxiv.org/abs/1812.11922)
 * SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints
