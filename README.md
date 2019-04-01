@@ -55,6 +55,9 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+* Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Videos
+  + [paper](https://arxiv.org/pdf/1810.03654.pdf)
+  + [code](https://github.com/baidu-research/UnDepthflow)
 * DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
   + [paper](https://arxiv.org/pdf/1809.01649.pdf)
   + [code](https://github.com/vt-vl-lab/DF-Net)
