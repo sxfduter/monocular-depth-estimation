@@ -130,7 +130,7 @@ Motion, Optical Flow and Motion Segmentation
 * Single-Image Depth Perception in the Wild
   + [paper](https://arxiv.org/abs/1604.03901)
 * Unsupervised Learning of Depth and Ego-Motion from Video(已复现)
-  + [paper](https://github.com/tinghuiz/SfMLearner)
+  + [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)
   + [code](https://github.com/tinghuiz/SfMLearner)
   + [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
 ## 2016
