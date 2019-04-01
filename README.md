@@ -1,8 +1,9 @@
 # monocular-depth-estimation
 
 ## 2019
-
-
+* Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
+  + [paper](https://arxiv.org/pdf/1809.04766.pdf)
+  + [code](https://github.com/drsleep/multi-task-refinenet)
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Competitive%20Collaboration.PNG "Competitive%20Collaboration")
 * Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera
 Motion, Optical Flow and Motion Segmentation
