@@ -2,6 +2,9 @@
 
 ## 2019
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/DKN.png)
+* Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction
+  + [paper](https://arxiv.org/abs/1903.07309)
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/DKN.png)
 * Deformable kernel networks for guided depth map upsampling
   + [paper](https://arxiv.org/abs/1903.11286?context=cs.CV)
   + [code](https://cvlab-yonsei.github.io/projects/DKN)
