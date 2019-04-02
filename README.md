@@ -1,7 +1,7 @@
 # monocular-depth-estimation
 
 ## 2019
-![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Two-branch%20%20decoder.png)
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Refine%20and%20Distill.png)
 * Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation
   + [paper](https://arxiv.org/abs/1903.04202)
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Two-branch%20%20decoder.png)
