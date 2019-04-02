@@ -1,7 +1,7 @@
 # monocular-depth-estimation
 
 ## 2019
-![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/DKN.png)
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Two-branch%20%20decoder.png)
 * Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction
   + [paper](https://arxiv.org/abs/1903.07309)
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/DKN.png)
