@@ -2,6 +2,13 @@
 
 ## 2019
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/multitask%20refinenet.PNG "multitask%20refinenet")
+* Deformable kernel networks for guided depth map upsampling
+  + [paper](https://arxiv.org/abs/1903.11286?context=cs.CV)
+  + [code](https://cvlab-yonsei.github.io/projects/DKN)
+
+
+
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/multitask%20refinenet.PNG "multitask%20refinenet")
 * Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
   + [paper](https://arxiv.org/pdf/1809.04766.pdf)
   + [code](https://github.com/drsleep/multi-task-refinenet)
