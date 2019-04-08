@@ -1,7 +1,6 @@
 # monocular-depth-estimation
 
 ## 2019
-![结构图]()
 * Group-wise Correlation Stereo Network
   + [paper](https://arxiv.org/abs/1903.04025)
   + [code](https://github.com/xy-guo/GwcNet)
