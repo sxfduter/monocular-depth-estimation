@@ -49,7 +49,7 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/abs/1903.00231)
 * SweepNet: Wide-baseline Omnidirectional Depth Estimation
   + [paper](https://arxiv.org/abs/1902.10904)
-* Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference(重点)
+* Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
   + [paper](https://arxiv.org/abs/1902.10556)
 * Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction
   + [paper](https://arxiv.org/abs/1902.06729)
