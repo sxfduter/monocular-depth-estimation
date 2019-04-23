@@ -1,6 +1,8 @@
 # monocular-depth-estimation
 
 ## 2019
+* Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
+  + [paper](https://arxiv.org/abs/1904.04998v1)
 * Group-wise Correlation Stereo Network
   + [paper](https://arxiv.org/abs/1903.04025)
   + [code](https://github.com/xy-guo/GwcNet)
