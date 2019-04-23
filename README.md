@@ -140,6 +140,8 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/pdf/1803.02286.pdf)
   
 ![结构图](https://github.com/MightyChaos/MightyChaos.github.io/raw/master/projects/cvpr18_chaoyang/demo.gif)
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/LKVOLearner.PNG)
+
 * Learning Depth from Monocular Videos using Direct Methods
   + [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf)
   + [code](https://github.com/MightyChaos/LKVOLearner)
