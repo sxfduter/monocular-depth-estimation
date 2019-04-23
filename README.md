@@ -89,8 +89,8 @@ Motion, Optical Flow and Motion Segmentation
   
  ![结构图]( https://github.com/yzcjtr/GeoNet/raw/master/misc/overview.jpg)
  * GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose (CVPR 2018)
-  + [paper](https://arxiv.org/abs/1803.02276)
-  + [code]( https://github.com/yzcjtr/GeoNet)
+   + [paper](https://arxiv.org/abs/1803.02276)
+   + [code]( https://github.com/yzcjtr/GeoNet)
  
  
 * Driving Scene Perception Network: Real-time Joint Detection, Depth Estimation and Semantic Segmentation
@@ -179,7 +179,7 @@ Motion, Optical Flow and Motion Segmentation
 * Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks
   + [paper](https://arxiv.org/abs/1604.07480v1)
 * Deeper Depth Prediction with Fully Convolutional Residual Networks
-   + [paper](https://arxiv.org/abs/1606.00373)
+  + [paper](https://arxiv.org/abs/1606.00373)
 * Deep3D Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks
   + [paper](https://arxiv.org/abs/1604.03650v1)
 ## 2015
