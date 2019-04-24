@@ -1,8 +1,10 @@
 # monocular-depth-estimation
 
 ## 2019
+* AMNet:Deep Atrous Multiscale Stereo Disparity Estimation Networks
+  + [paper](https://arxiv.org/abs/1904.09099)
 * Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
-  + [paper](https://arxiv.org/abs/1904.04998v1)
+  + [paper](https://arxiv.org/)
 * Group-wise Correlation Stereo Network
   + [paper](https://arxiv.org/abs/1903.04025)
   + [code](https://github.com/xy-guo/GwcNet)
