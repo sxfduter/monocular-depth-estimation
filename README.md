@@ -179,7 +179,8 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/abs/1607.00730)
 * Single-Image Depth Perception in the Wild
   + [paper](https://arxiv.org/abs/1604.03901)
-  
+*  Unsupervised Learning of Depth and Ego-Motion from Monocular VideoUsing 3D Geometric Constraints
+  + [paper](https://arxiv.org/pdf/1802.05522v1.pdf)  
  ![结构图]( https://github.com/sxfduter/monocular-depth-estimation/blob/master/SfMLearner1.PNG "SfMLearner1") 
 * Unsupervised Learning of Depth and Ego-Motion from Video(已复现)
   + [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)
