@@ -1,6 +1,11 @@
 # monocular-depth-estimation
 
 ## 2019
+
+* FastDepth:  Fast  Monocular  Depth  Estimation  on  Embedded  Systems
+  + [paper](https://arxiv.org/pdf/1903.03273.pdf)
+  + [code](https://github.com/dwofk/fast-depth)
+  + [webage](http://fastdepth.mit.edu/)
 * AMNet:Deep Atrous Multiscale Stereo Disparity Estimation Networks
   + [paper](https://arxiv.org/abs/1904.09099)
 * Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
