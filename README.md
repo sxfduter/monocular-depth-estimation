@@ -1,7 +1,8 @@
 # monocular-depth-estimation
 
 ## 2019
-
+* Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
+  + [paper](https://arxiv.org/pdf/1904.11112.pdf)
 * FastDepth:  Fast  Monocular  Depth  Estimation  on  Embedded  Systems
   + [paper](https://arxiv.org/pdf/1903.03273.pdf)
   + [code](https://github.com/dwofk/fast-depth)
