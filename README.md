@@ -1,6 +1,8 @@
 # monocular-depth-estimation
 
 ## 2019
+* Learning the Depths of Moving People by Watching Frozen People
+ + [paper](https://arxiv.org/pdf/1904.11111.pdf)
 * Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
   + [paper](https://arxiv.org/pdf/1904.11112.pdf)
 * FastDepth:  Fast  Monocular  Depth  Estimation  on  Embedded  Systems
