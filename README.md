@@ -10,7 +10,8 @@
 * Learning the Depths of Moving People by Watching Frozen People
   + [paper](https://arxiv.org/pdf/1904.11111.pdf)
 * Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
-  + [paper](https://arxiv.org/pdf/1904.11112.pdf)
+  + [paper](https://arxiv.org/pdf/1904.11112.pdf) 
+  ![结构图](https://raw.githubusercontent.com/dwofk/fast-depth/master/img/visualization.png)
 * FastDepth:  Fast  Monocular  Depth  Estimation  on  Embedded  Systems
   + [paper](https://arxiv.org/pdf/1903.03273.pdf)
   + [code](https://github.com/dwofk/fast-depth)
