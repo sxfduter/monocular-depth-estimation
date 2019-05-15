@@ -1,6 +1,10 @@
 # monocular-depth-estimation
 
 ## 2019
+![结构图](https://raw.githubusercontent.com/CVLAB-Unibo/Learning2AdaptForStereo/master/architecture.png)
+* Learning to Adapt for Stereo
+  + [paper](https://arxiv.org/abs/1904.02957)
+  + [code](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo)
 * Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More
   + [paper](https://arxiv.org/pdf/1904.10167.pdf)
 * Learning the Depths of Moving People by Watching Frozen People
