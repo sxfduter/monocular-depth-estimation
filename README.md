@@ -110,8 +110,8 @@ Motion, Optical Flow and Motion Segmentation
  * GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose (CVPR 2018)
    + [paper](https://arxiv.org/abs/1803.02276)
    + [code]( https://github.com/yzcjtr/GeoNet)
- 
- 
+ * GeoNet:Geometric Neural Network for Joint Depth and Surface Normal Estimation
+   + [paper]()
 * Driving Scene Perception Network: Real-time Joint Detection, Depth Estimation and Semantic Segmentation
   + [paper]( https://arxiv.org/pdf/1803.03778.pdf)
 * Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences
