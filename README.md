@@ -235,6 +235,10 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/abs/1409.1556)
 * Squeeze-and-Excitation Networks
   + [paper]( https://arxiv.org/abs/1709.01507v1)
+* CBAM: Convolutional Block Attention Module
+  + [paper]( http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
+* GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
+  + [paper](https://arxiv.org/abs/1904.11492?context=cs.LG)
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
   + [paper]( https://arxiv.org/abs/1707.01083)
 * ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
