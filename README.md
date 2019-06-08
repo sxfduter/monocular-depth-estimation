@@ -94,9 +94,11 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
-
-
-
+![结构图](https://camo.githubusercontent.com/bfeda04ca5dc388a4977c3584ca5b82386bc6f91/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7669643264657074682f6d656469612f73616d706c655f766964656f5f736d616c6c2e676966)
+* Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
+  + [paper](https://arxiv.org/pdf/1802.05522.pdf)
+  + [code](https://github.com/tensorflow/models/tree/master/research/vid2depth)
+  + [Project website](https://sites.google.com/view/vid2depth)
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/Depth%20VO%20Feat.PNG "Depth-VO-Feat")
 * Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
   + [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
