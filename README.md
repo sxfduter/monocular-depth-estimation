@@ -4,6 +4,9 @@
 
 
 
+* PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
+  + [paper](https://arxiv.org/pdf/1905.02693v1.pdf)
+  + [code](https://github.com/ToyotaResearchInstitute/packnet-sfm)
 * Semi-Supervised Monocular Depth Estimation with Left-Right Consistency Using Deep Neural Network
   + [paper](https://arxiv.org/pdf/1905.07542v1.pdf)
   + [code](https://github.com/a-jahani/semiDepth)
