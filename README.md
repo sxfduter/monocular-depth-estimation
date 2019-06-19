@@ -3,6 +3,10 @@
 ## 2019
 
 
+* Veritatem Dies Aperit - Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Atapour-Abarghouei_Veritatem_Dies_Aperit_-_Temporally_Consistent_Depth_Prediction_Enabled_by_CVPR_2019_paper.pdf)
+* Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf)
 * Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation
   + [paper](https://arxiv.org/pdf/1906.03525v1.pdf)
 * Generating and Exploiting Probabilistic Monocular Depth Estimates
