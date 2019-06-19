@@ -207,9 +207,10 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* Fast Robust Monocular Depth Estimation for Obstacle Detection with Fully Convolutional Networks
+  + [paper](https://arxiv.org/pdf/1607.06349v1.pdf)
 * Parse Geometry from a Line: Monocular Depth Estimation with Partial Laser Observation
   + [paper](https://arxiv.org/pdf/1611.02174v1.pdf)
-  + [code](https://github.com/fangchangma/sparse-to-dense.pytorch)
 * Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks
   + [paper](https://arxiv.org/abs/1604.07480v1)
 * Deeper Depth Prediction with Fully Convolutional Residual Networks
