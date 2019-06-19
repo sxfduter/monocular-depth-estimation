@@ -97,6 +97,9 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries
+ + [paper](https://arxiv.org/pdf/1803.08673v2.pdf)
+ + [code](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
 * Deep Ordinal Regression Network for Monocular Depth Estimation
  + [paper](https://arxiv.org/pdf/1806.02446v1.pdf)
  + [code](https://github.com/hufu6371/DORN)
