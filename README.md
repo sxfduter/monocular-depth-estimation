@@ -3,6 +3,11 @@
 ## 2019
 
 
+* Monocular Depth Estimation Using Relative Depth Maps
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)
+* Connecting the Dots: Learning Representations for Active Monocular Depth Estimation
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Riegler_Connecting_the_Dots_Learning_Representations_for_Active_Monocular_Depth_Estimation_CVPR_2019_paper.pdf)
+  
 * Soft Labels for Ordinal Regression
   + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Diaz_Soft_Labels_for_Ordinal_Regression_CVPR_2019_paper.pdf)
 
