@@ -4,6 +4,15 @@
 
 
 
+* Attention-based Context Aggregation Network for Monocular Depth Estimation
+  + [paper](https://arxiv.org/pdf/1901.10137v1.pdf)
+  + [code](https://github.com/miraiaroha/ACAN)
+
+* Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud
+  + [paper](https://arxiv.org/pdf/1903.09847v3.pdf)
+  + [code](https://github.com/xinshuoweng/mono3D_PLiDAR)
+
+
 * Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1904.01870v1.pdf)
   + [code](https://github.com/sshan-zhao/GASDA)
