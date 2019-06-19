@@ -132,23 +132,23 @@ Motion, Optical Flow and Motion Segmentation
 
 
 * Learning Monocular Depth by Distilling Cross-domain Stereo Networks
- + [paper](https://arxiv.org/pdf/1808.06586v1.pdf)
- + [code](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo)
+  + [paper](https://arxiv.org/pdf/1808.06586v1.pdf)
+  + [code](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo)
 * Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries
- + [paper](https://arxiv.org/pdf/1803.08673v2.pdf)
- + [code](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
+  + [paper](https://arxiv.org/pdf/1803.08673v2.pdf)
+  + [code](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
 * Deep Ordinal Regression Network for Monocular Depth Estimation
- + [paper](https://arxiv.org/pdf/1806.02446v1.pdf)
- + [code](https://github.com/hufu6371/DORN)
+  + [paper](https://arxiv.org/pdf/1806.02446v1.pdf)
+  + [code](https://github.com/hufu6371/DORN)
 * High Quality Monocular Depth Estimation via Transfer Learning
- + [paper](https://arxiv.org/pdf/1812.11941v2.pdf)
- + [code](https://github.com/ialhashim/DenseDepth)
+  + [paper](https://arxiv.org/pdf/1812.11941v2.pdf)
+  + [code](https://github.com/ialhashim/DenseDepth)
 * Digging Into Self-Supervised Monocular Depth Estimation
- + [paper](https://arxiv.org/pdf/1806.01260v3.pdf)
- + [code](https://github.com/nianticlabs/monodepth2)
+  + [paper](https://arxiv.org/pdf/1806.01260v3.pdf)
+  + [code](https://github.com/nianticlabs/monodepth2)
 * On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach
- + [paper](https://arxiv.org/pdf/1803.09719v3.pdf)
- + [code](https://github.com/NVIDIA-AI-IOT/redtail)
+  + [paper](https://arxiv.org/pdf/1803.09719v3.pdf)
+  + [code](https://github.com/NVIDIA-AI-IOT/redtail)
 
 <div align=center><img width="200" height="150" src="https://camo.githubusercontent.com/bfeda04ca5dc388a4977c3584ca5b82386bc6f91/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7669643264657074682f6d656469612f73616d706c655f766964656f5f736d616c6c2e676966"/></div>
 <div align=center><img width="400" height="500" src="https://camo.githubusercontent.com/878c3b95ff7066d1294c3b2c72a246d035f85db7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7669643264657074682f6d656469612f617070726f6163682e706e67"/></div>
