@@ -3,7 +3,9 @@
 ## 2019
 
 
-
+* Deep Robust Single Image Depth Estimation Neural Network Using Scene Understanding
+  + [paper](https://arxiv.org/abs/1906.03279)
+  
 * Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics
   + [paper](https://arxiv.org/abs/1906.05717)
   + [code](https://sites.google.com/corp/view/struct2depth)
