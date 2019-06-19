@@ -97,6 +97,9 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* Learning Monocular Depth by Distilling Cross-domain Stereo Networks
+ + [paper](https://arxiv.org/pdf/1808.06586v1.pdf)
+ + [code](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo)
 * Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries
  + [paper](https://arxiv.org/pdf/1803.08673v2.pdf)
  + [code](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
