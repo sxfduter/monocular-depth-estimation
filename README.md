@@ -1,6 +1,12 @@
 # monocular-depth-estimation
 
 ## 2019
+
+
+
+* SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation
+  + [paper](https://arxiv.org/pdf/1905.08598v1.pdf)
+  + [code](https://github.com/MichaelRamamonjisoa/SharpNet)
 * Learning the Depths of Moving People by Watching Frozen People
   + [paper](https://arxiv.org/abs/1904.11111)
 * Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
