@@ -3,7 +3,10 @@
 ## 2019
 
 
-
+* Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation
+  + [paper](https://arxiv.org/pdf/1906.03525v1.pdf)
+* Generating and Exploiting Probabilistic Monocular Depth Estimates
+  + [paper](https://arxiv.org/pdf/1906.05739v1.pdf)
 * Attention-based Context Aggregation Network for Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1901.10137v1.pdf)
   + [code](https://github.com/miraiaroha/ACAN)
