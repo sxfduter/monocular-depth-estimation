@@ -301,6 +301,9 @@ Motion, Optical Flow and Motion Segmentation
 ## review
 * Monocular Depth Estimation: A Survey
   + [paper](https://arxiv.org/abs/1901.09402)
+* A Survey on Deep Learning Architectures for Image-based Depth Reconstruction
+  + [paper](https://arxiv.org/abs/1906.06113)
+
 
 ## Network Architecture
 * ResNet: Deep Residual Learning for Image Recognition
