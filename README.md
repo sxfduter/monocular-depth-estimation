@@ -4,6 +4,9 @@
 
 
 
+* Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics
+  + [paper](https://arxiv.org/abs/1906.05717)
+  + [code](https://sites.google.com/corp/view/struct2depth)
 * Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving
   + [paper](https://arxiv.org/abs/1906.06310)
   + [code](https://github.com/mileyan/Pseudo_Lidar_V2)
