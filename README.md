@@ -97,6 +97,9 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* High Quality Monocular Depth Estimation via Transfer Learning
+ + [paper](https://arxiv.org/pdf/1812.11941v2.pdf)
+ + [code](https://github.com/ialhashim/DenseDepth)
 * Digging Into Self-Supervised Monocular Depth Estimation
  + [paper](https://arxiv.org/pdf/1806.01260v3.pdf)
  + [code](https://github.com/nianticlabs/monodepth2)
