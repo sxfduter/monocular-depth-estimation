@@ -94,6 +94,12 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+
+
+
+* Digging Into Self-Supervised Monocular Depth Estimation
+ + [paper](https://arxiv.org/pdf/1806.01260v3.pdf)
+ + [code](https://github.com/nianticlabs/monodepth2)
 * On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach
  + [paper](https://arxiv.org/pdf/1803.09719v3.pdf)
  + [code](https://github.com/NVIDIA-AI-IOT/redtail)
