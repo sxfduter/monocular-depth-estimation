@@ -3,6 +3,10 @@
 ## 2019
 
 
+
+* Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving
+  + [paper](https://arxiv.org/abs/1906.06310)
+  + [code](https://github.com/mileyan/Pseudo_Lidar_V2)
 * Monocular Depth Estimation Using Relative Depth Maps
   + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)
 * Connecting the Dots: Learning Representations for Active Monocular Depth Estimation
