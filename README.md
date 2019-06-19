@@ -131,6 +131,9 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* Geometry meets semantics for semi-supervised monocular depth estimation
+  + [paper](https://arxiv.org/pdf/1810.04093v2.pdf)
+  + [code](https://github.com/CVLAB-Unibo/Semantic-Mono-Depth)
 * Learning Monocular Depth by Distilling Cross-domain Stereo Networks
   + [paper](https://arxiv.org/pdf/1808.06586v1.pdf)
   + [code](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo)
