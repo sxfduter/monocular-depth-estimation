@@ -3,6 +3,14 @@
 ## 2019
 
 
+* Soft Labels for Ordinal Regression
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Diaz_Soft_Labels_for_Ordinal_Regression_CVPR_2019_paper.pdf)
+
+* A General and Adaptive Robust Loss Function
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barron_A_General_and_Adaptive_Robust_Loss_Function_CVPR_2019_paper.pdf)
+
+* Adversarial Structure Matching for Structured Prediction Tasks
+  + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hwang_Adversarial_Structure_Matching_for_Structured_Prediction_Tasks_CVPR_2019_paper.pdf)
 * Veritatem Dies Aperit - Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
   + [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Atapour-Abarghouei_Veritatem_Dies_Aperit_-_Temporally_Consistent_Depth_Prediction_Enabled_by_CVPR_2019_paper.pdf)
 * Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation
