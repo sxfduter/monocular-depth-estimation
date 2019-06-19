@@ -97,6 +97,9 @@ Motion, Optical Flow and Motion Segmentation
 
 
 
+* Deep Ordinal Regression Network for Monocular Depth Estimation
+ + [paper](https://arxiv.org/pdf/1806.02446v1.pdf)
+ + [code](https://github.com/hufu6371/DORN)
 * High Quality Monocular Depth Estimation via Transfer Learning
  + [paper](https://arxiv.org/pdf/1812.11941v2.pdf)
  + [code](https://github.com/ialhashim/DenseDepth)
