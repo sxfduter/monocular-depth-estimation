@@ -4,6 +4,10 @@
 
 
 
+* Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation
+  + [paper](https://arxiv.org/pdf/1905.00401v1.pdf)
+  + [code](https://github.com/mtngld/lsim)
+
 * PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1905.02693v1.pdf)
   + [code](https://github.com/ToyotaResearchInstitute/packnet-sfm)
