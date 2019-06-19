@@ -4,6 +4,14 @@
 
 
 
+* Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
+  + [paper](https://arxiv.org/pdf/1904.01870v1.pdf)
+  + [code](https://github.com/sshan-zhao/GASDA)
+
+* Learning monocular depth estimation infusing traditional stereo knowledge
+  + [paper](https://arxiv.org/pdf/1904.04144v1.pdf)
+  + [code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)
+  
 * Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation
   + [paper](https://arxiv.org/pdf/1905.00401v1.pdf)
   + [code](https://github.com/mtngld/lsim)
