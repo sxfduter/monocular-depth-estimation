@@ -173,31 +173,11 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf)
   + [code](https://github.com/MightyChaos/LKVOLearner)
   
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 ## 2017
+* Unsupervised Monocular Depth Estimation with Left-Right Consistency  
+  + [paper](https://arxiv.org/pdf/1609.03677v3.pdf)  
+  + [code tensorflow](https://github.com/mrharicot/monodepth)  
+  + [code pytorch](https://github.com/alwynmathew/monodepth-pytorch)
 * A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images
   + [paper](https://arxiv.org/abs/1607.00730)
 * Single-Image Depth Perception in the Wild
