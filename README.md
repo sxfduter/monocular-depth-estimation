@@ -1,6 +1,5 @@
 思维导图
-![结构图](https://raw.githubusercontent.com/CVLAB-Unibo/Learning2AdaptForStereo/master/architecture.png)
-
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/monocular%20depth%20estimation.pdf)
 # monocular-depth-estimation
 
 ## 2019
