@@ -1,4 +1,4 @@
-思维导图
+# Mind Mapping for Depth Estimation
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 # monocular-depth-estimation
 
