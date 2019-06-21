@@ -157,8 +157,9 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
-
-
+* Single View Stereo Matching
+  + [paper](https://arxiv.org/abs/1803.02612)
+  + [code](https://github.com/lawy623/SVS)
 
 * Geometry meets semantics for semi-supervised monocular depth estimation
   + [paper](https://arxiv.org/pdf/1810.04093v2.pdf)
