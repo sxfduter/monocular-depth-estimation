@@ -3,8 +3,8 @@
 # monocular-depth-estimation
 
 ## 2019
-
-
+* Pixel-Accurate Depth Evaluation in Realistic Driving Scenarios
+  + [paper](https://arxiv.org/abs/1906.08953)
 * Deep Robust Single Image Depth Estimation Neural Network Using Scene Understanding
   + [paper](https://arxiv.org/abs/1906.03279)
   
