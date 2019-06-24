@@ -71,7 +71,7 @@
 * Learning the Depths of Moving People by Watching Frozen People
   + [paper](https://arxiv.org/abs/1904.11111)
 * Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
-  + [paper](https://arxiv.org/abs/1904.04998)
+  + [paper](https://arxiv.org/abs/1904.04998v1)
 ![结构图](https://raw.githubusercontent.com/CVLAB-Unibo/Learning2AdaptForStereo/master/architecture.png)
 * Learning to Adapt for Stereo
   + [paper](https://arxiv.org/abs/1904.02957)
