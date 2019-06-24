@@ -3,6 +3,8 @@
 # monocular-depth-estimation
 
 ## 2019
+* SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks
+  + [paper](https://arxiv.org/abs/1906.08889)
 * Pixel-Accurate Depth Evaluation in Realistic Driving Scenarios
   + [paper](https://arxiv.org/abs/1906.08953)
 * Deep Robust Single Image Depth Estimation Neural Network Using Scene Understanding
