@@ -317,6 +317,8 @@ Motion, Optical Flow and Motion Segmentation
 # GAN for depth estimation
 * Generative Adversarial Networks for unsupervised monocular depth prediction
   + [paper](http://vision.deis.unibo.it/~ftosi/papers/monoGan.pdf)
+* Unsupervised Adversarial Depth Estimation using Cycled Generative Networks
+  + [paper](https://arxiv.org/abs/1807.10915)
 ## review
 * Monocular Depth Estimation: A Survey
   + [paper](https://arxiv.org/abs/1901.09402)
