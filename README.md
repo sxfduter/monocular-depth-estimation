@@ -1,7 +1,9 @@
 # Mind Mapping for Depth Estimation
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 # monocular-depth-estimation
-
+## depth map from lidar
+* LiStereo: Generate Dense Depth Maps from LIDAR and Stereo Imagery
+  + [paper](https://arxiv.org/pdf/1905.02744.pdf)
 ## 2019
 * SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks(***)
   + [paper](https://arxiv.org/abs/1906.08889)
