@@ -315,6 +315,7 @@ Motion, Optical Flow and Motion Segmentation
   + [code for pytorch](https://github.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network)
   
 # GAN for depth estimation
+These use the Generator to generate the depth map instead of using estimation networks. From these work, it can be seen that the generative nature in GAN networks is beneficial to the scenes with dynamic objects. However, these visual odometry related GANs focus on the depth estimation, but not on the ego-motion estimation.
 * Generative Adversarial Networks for unsupervised monocular depth prediction
   + [paper](http://vision.deis.unibo.it/~ftosi/papers/monoGan.pdf)
 * Unsupervised Adversarial Depth Estimation using Cycled Generative Networks
