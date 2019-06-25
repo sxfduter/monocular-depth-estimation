@@ -314,11 +314,9 @@ Motion, Optical Flow and Motion Segmentation
   + [paper](https://arxiv.org/abs/1406.2283v1)
   + [code for pytorch](https://github.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network)
   
-
-
-  
-
-
+# GAN for depth estimation
+* Generative Adversarial Networks for unsupervised monocular depth prediction
+  + [paper](http://vision.deis.unibo.it/~ftosi/papers/monoGan.pdf)
 ## review
 * Monocular Depth Estimation: A Survey
   + [paper](https://arxiv.org/abs/1901.09402)
