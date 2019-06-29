@@ -1,7 +1,7 @@
 # Mind Mapping for Depth Estimation
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 # monocular-depth-estimation
-## depth map from lidar
+## lidar 
 * DeepLiDAR:Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
   + [paper](https://arxiv.org/pdf/1812.00488.pdf)
 * Pseudo-LiDAR++:Accurate Depth for 3D Object Detection in Autonomous Driving
@@ -10,6 +10,9 @@
   + [paper](https://arxiv.org/pdf/1905.02744.pdf)
 * Self-Supervised Sparse-to-Dense: Self-Supervised Depth Completion from LiDAR and Monocular Camera
   + [paper](https://arxiv.org/pdf/1807.00275.pdf)
+* RGB and LiDAR fusion based 3D Semantic Segmentation for Autonomous Driving
+  + [paper](https://arxiv.org/pdf/1906.00208.pdf)
+
 
 
 
