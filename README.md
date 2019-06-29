@@ -8,6 +8,11 @@
   + [paper](https://arxiv.org/pdf/1906.06310.pdf)
 * LiStereo: Generate Dense Depth Maps from LIDAR and Stereo Imagery
   + [paper](https://arxiv.org/pdf/1905.02744.pdf)
+* Self-Supervised Sparse-to-Dense: Self-Supervised Depth Completion from LiDAR and Monocular Camera
+  + [paper](https://arxiv.org/pdf/1807.00275.pdf)
+
+
+
 ## 2019
 * SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks(***)
   + [paper](https://arxiv.org/abs/1906.08889)
