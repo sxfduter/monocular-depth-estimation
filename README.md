@@ -338,11 +338,16 @@ These use the Generator to generate the depth map instead of using estimation ne
   + [paper](https://arxiv.org/abs/1807.10915)
 * Monocular depth prediction using generative adversarial networks
 * Generative adversarial networks for depth map estimation from RGB video
+## 单镜头视觉系统检测车辆的测距方法
+![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/figure1.PNG) 
+* Vision-based ACC with a Single Camera: Bounds on Range and Range Rate Accuracy
+  + [paper](http://pdfs.semanticscholar.org/b009/2c04797aec76da875d5798b7fc3e7ee31b56.pdf)
 ## review
 * Monocular Depth Estimation: A Survey
   + [paper](https://arxiv.org/abs/1901.09402)
 * A Survey on Deep Learning Architectures for Image-based Depth Reconstruction
   + [paper](https://arxiv.org/abs/1906.06113)
+
 
 
 ## Network Architecture
