@@ -4,6 +4,8 @@
 ## VIO
 * DeepVIO:  Self-supervised  Deep  Learning  of  Monocular  Visual  InertialOdometry  using  3D  Geometric  Constraints
   + [paper](https://arxiv.org/pdf/1906.11435.pdf)
+* DeepVO: A Deep Learning approach for Monocular VisualOdometry
+  + [paper](https://arxiv.org/pdf/1611.06069.pdf)
 ## lidar 
 * DeepLiDAR:Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
   + [paper](https://arxiv.org/pdf/1812.00488.pdf)
