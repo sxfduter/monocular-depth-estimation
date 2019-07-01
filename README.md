@@ -1,6 +1,9 @@
 # Mind Mapping for Depth Estimation
 ![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 # monocular-depth-estimation
+## VIO
+* DeepVIO:  Self-supervised  Deep  Learning  of  Monocular  Visual  InertialOdometry  using  3D  Geometric  Constraints
+  + [paper](https://arxiv.org/pdf/1906.11435.pdf)
 ## lidar 
 * DeepLiDAR:Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
   + [paper](https://arxiv.org/pdf/1812.00488.pdf)
