@@ -22,6 +22,8 @@
 
 
 ## 2019
+* Towards Robust Monocular Depth Estimation:Mixing Datasets for Zero-Shot Cross-Dataset Transfer
+  + [paper](https://arxiv.org/pdf/1907.01341.pdf)
 * SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks(***)
   + [paper](https://arxiv.org/abs/1906.08889)
 * Pixel-Accurate Depth Evaluation in Realistic Driving Scenarios
