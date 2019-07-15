@@ -95,6 +95,9 @@
   
 * Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
   + [paper](https://arxiv.org/abs/1904.04998v1)
+* Real-time self-adaptive deep stereo
+  + [paper](https://arxiv.org/pdf/1810.05424.pdf)
+  + [code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
 ![结构图](https://raw.githubusercontent.com/CVLAB-Unibo/Learning2AdaptForStereo/master/architecture.png)
 * Learning to Adapt for Stereo
   + [paper](https://arxiv.org/abs/1904.02957)
