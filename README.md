@@ -301,6 +301,8 @@ Motion, Optical Flow and Motion Segmentation
   + [code](https://github.com/MightyChaos/LKVOLearner)
   
 ## 2017
+* Semi-Supervised Deep Learning for Monocular Depth Map Prediction
+  + [paper](https://arxiv.org/pdf/1702.02706.pdf)
 * Unsupervised Monocular Depth Estimation with Left-Right Consistency  
   + [paper](https://arxiv.org/pdf/1609.03677v3.pdf)  
   + [code tensorflow](https://github.com/mrharicot/monodepth)  
