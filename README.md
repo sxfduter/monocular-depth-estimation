@@ -85,7 +85,8 @@
 * Semi-Supervised Monocular Depth Estimation with Left-Right Consistency Using Deep Neural Network
   + [paper](https://arxiv.org/pdf/1905.07542v1.pdf)
   + [code](https://github.com/a-jahani/semiDepth)
-  
+* Sparsity Invariant CNNs
+  + [paper](https://arxiv.org/pdf/1708.06500.pdf)
 * SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1905.08598v1.pdf)
   + [code](https://github.com/MichaelRamamonjisoa/SharpNet)
