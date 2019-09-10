@@ -22,6 +22,10 @@
 
 
 ## 2019
+* Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+  + [paper](https://arxiv.org/pdf/1908.10553.pdf)
+  + [code](https://github.com/JiawangBian/SC-SfMLearner-Release)
+  + [project](https://jwbian.net/sc-sfmlearner)
 * Towards Robust Monocular Depth Estimation:Mixing Datasets for Zero-Shot Cross-Dataset Transfer
   + [paper](https://arxiv.org/pdf/1907.01341.pdf)
 * SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks(***)
