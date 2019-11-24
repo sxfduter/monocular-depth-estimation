@@ -22,10 +22,6 @@
 
 
 ## 2019
-* Unsupervised Scale-consistent Depth and Ego-motionLearning from Monocular Video
-  + [paper](https://arxiv.org/pdf/1908.10553.pdf)
-  + [code](https://github.com/JiawangBian/SC-SfMLearner-Release)
-  + [project](https://jwbian.net/sc-sfmlearner)
 * Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
   + [paper](https://arxiv.org/pdf/1908.10553.pdf)
   + [code](https://github.com/JiawangBian/SC-SfMLearner-Release)
