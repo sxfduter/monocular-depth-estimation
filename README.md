@@ -22,8 +22,6 @@
 
 
 ## 2019
-* DPSNET: END-TO-END DEEP PLANE SWEEP STEREO
-  + [paper](https://arxiv.org/pdf/1905.00538.pdf)
 * How do neural networks see depth in single images?
   + [paper](https://arxiv.org/pdf/1905.07005.pdf)
 * Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
