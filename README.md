@@ -195,6 +195,9 @@ Motion, Optical Flow and Motion Segmentation
   
    
 ## 2018
+* Robust Depth Estimation from Auto Bracketed Images
+  + [paper](https://arxiv.org/pdf/1803.07702.pdf)
+
 * PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume
   + [paper](https://arxiv.org/pdf/1709.02371.pdf)
   + [code](https://github.com/NVlabs/PWC-Net)
