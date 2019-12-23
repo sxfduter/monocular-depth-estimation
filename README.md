@@ -40,6 +40,10 @@
   + [paper](https://arxiv.org/abs/1906.08953)
 * Deep Robust Single Image Depth Estimation Neural Network Using Scene Understanding
   + [paper](https://arxiv.org/abs/1906.03279)
+* Digging Into Self-Supervised Monocular Depth Estimation
+  + [paper](https://arxiv.org/abs/1806.01260)
+  + [code](https://github.com/nianticlabs/monodepth2)
+  
   
 * Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics
   + [paper](https://arxiv.org/abs/1906.05717)
