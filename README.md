@@ -22,6 +22,8 @@
 
 
 ## 2019
+* HOW  MUCH POSITION INFORMATION DO CONVOLUTIONAL NEURAL NETWORKS ENCODE?
+  + [paper](https://openreview.net/pdf?id=rJeB36NKvB)
 * Instance-wise Depth and Motion Learning from Monocular Videos
   + [paper](https://arxiv.org/pdf/1912.09351.pdf)
 * How do neural networks see depth in single images?
