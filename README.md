@@ -22,6 +22,8 @@
 
 
 ## 2019
+* Self-supervised Learning with Geometric Constraints in Monocular Video Connecting Flow, Depth, and Camera
+  + [paper](https://arxiv.org/pdf/1907.05820.pdf)
 * SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1810.01849.pdf)
 * HOW  MUCH POSITION INFORMATION DO CONVOLUTIONAL NEURAL NETWORKS ENCODE?
