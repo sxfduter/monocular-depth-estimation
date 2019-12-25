@@ -22,6 +22,8 @@
 
 
 ## 2019
+* SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation
+  + [paper](https://arxiv.org/pdf/1810.01849.pdf)
 * HOW  MUCH POSITION INFORMATION DO CONVOLUTIONAL NEURAL NETWORKS ENCODE?
   + [paper](https://openreview.net/pdf?id=rJeB36NKvB)
 * Instance-wise Depth and Motion Learning from Monocular Videos
