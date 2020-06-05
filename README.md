@@ -21,8 +21,8 @@
 
 ## 2020
 * Don’t Forget The Past: Recurrent Depth Estimation from Monocular Video
-+ [paper](https://arxiv.org/pdf/2001.02613.pdf)
-+ [code](www.github.com/wvangansbeke/Recurrent-Depth-Estimation)
+  + [paper](https://arxiv.org/pdf/2001.02613.pdf)
+  + [code](www.github.com/wvangansbeke/Recurrent-Depth-Estimation)
 
 ## 2019
 * 3D Packing for Self-Supervised Monocular Depth Estimation
@@ -373,44 +373,4 @@ Motion, Optical Flow and Motion Segmentation
 These use the Generator to generate the depth map instead of using estimation networks. From these work, it can be seen that the generative nature in GAN networks is beneficial to the scenes with dynamic objects. However, these visual odometry related GANs focus on the depth estimation, but not on the ego-motion estimation.
 * Generative Adversarial Networks for unsupervised monocular depth prediction
   + [paper](http://vision.deis.unibo.it/~ftosi/papers/monoGan.pdf)
-* Unsupervised Adversarial Depth Estimation using Cycled Generative Networks
-  + [paper](https://arxiv.org/abs/1807.10915)
-* Monocular depth prediction using generative adversarial networks
-* Generative adversarial networks for depth map estimation from RGB video
-## 单镜头视觉系统检测车辆的测距方法
-![结构图](https://github.com/sxfduter/monocular-depth-estimation/blob/master/figure1.PNG) 
-* Vision-based ACC with a Single Camera: Bounds on Range and Range Rate Accuracy
-  + [paper](http://pdfs.semanticscholar.org/b009/2c04797aec76da875d5798b7fc3e7ee31b56.pdf)
-## review
-* Monocular Depth Estimation: A Survey
-  + [paper](https://arxiv.org/abs/1901.09402)
-* A Survey on Deep Learning Architectures for Image-based Depth Reconstruction
-  + [paper](https://arxiv.org/abs/1906.06113)
-
-
-
-## Network Architecture
-* ResNet: Deep Residual Learning for Image Recognition
-  + [paper](https://arxiv.org/abs/1512.03385)
-* VGG: Very Deep Convolutional Networks for Large-scale Image Recognition
-  + [paper](https://arxiv.org/abs/1409.1556)
-* Squeeze-and-Excitation Networks
-  + [paper]( https://arxiv.org/abs/1709.01507v1)
-* CBAM: Convolutional Block Attention Module
-  + [paper]( http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
-* GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
-  + [paper](https://arxiv.org/abs/1904.11492?context=cs.LG)
-* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
-  + [paper]( https://arxiv.org/abs/1707.01083)
-* ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
-  + [paper](https://arxiv.org/abs/1807.11164)
-* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-  + [paper](https://arxiv.org/abs/1704.04861)
-* MobileNetV2: Inverted Residuals and Linear Bottlenecks
-  + [paper](https://arxiv.org/abs/1801.04381)
-  
-  
- 
-  
- 
-
+* Unsupervised 
