@@ -19,7 +19,7 @@
   + [paper](https://arxiv.org/pdf/1906.00208.pdf)
 
 
-##2020
+## 2020
 * Don’t Forget The Past: Recurrent Depth Estimation from Monocular Video
 + [paper](https://arxiv.org/pdf/2001.02613.pdf)
 + [code](www.github.com/wvangansbeke/Recurrent-Depth-Estimation)
