@@ -27,6 +27,7 @@
 ## 2019
 * 3D Packing for Self-Supervised Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1905.02693.pdf)
+  + [code](https://github.com/TRI-ML/packnet-sfm)
 * Self-supervised Learning with Geometric Constraints in Monocular Video Connecting Flow, Depth, and Camera
   + [paper](https://arxiv.org/pdf/1907.05820.pdf)
 * SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation
