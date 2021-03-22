@@ -35,6 +35,7 @@
   + [paper](https://openreview.net/pdf?id=rJeB36NKvB)
 * Instance-wise Depth and Motion Learning from Monocular Videos
   + [paper](https://arxiv.org/pdf/1912.09351.pdf)
+  + [code](https://github.com/SeokjuLee/Insta-DM)
 * How do neural networks see depth in single images?
   + [paper](https://arxiv.org/pdf/1905.07005.pdf)
 * Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
