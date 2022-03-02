@@ -24,7 +24,7 @@
   + [paper](https://arxiv.org/pdf/2001.02613.pdf)
   + [code](https://github.com/wvangansbeke/Recurrent-Depth-Estimation)
 * Feature-metric Loss for Self-supervised Learning of Depth and Egomotion
-  + [paper](file:///Users/sunxiaofei/PycharmProjects/papers/2007.10603.pdf)
+  + [paper](https://arxiv.org/pdf/2007.10603.pdf)
   + [code](https://github.com/sconlyshootery/FeatDepth)
 
 ## 2019
